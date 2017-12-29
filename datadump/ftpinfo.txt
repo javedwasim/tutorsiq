@@ -1,0 +1,19 @@
+Domain: tutorsiq.com
+
+
+CPANEL  INFORMATION
+=============================
+
+cPanel URL		:http://tutorsiq.com/cpanel
+cPanel Username	:	tutodnlr
+cPanel Password	:	jHEUxa!JeV$Xs
+
+FTP  INFORMATION
+====================================================
+
+
+HOST/ Server	:	server201.web-hosting.com
+Username		:	tutodnlr
+Password		:	jHEUxa!JeV$Xs
+FTP Mode		:	Passive
+FTP Port		:	21

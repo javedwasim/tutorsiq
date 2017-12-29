@@ -1,0 +1,29 @@
+.followup-filter{
+    float: right;
+    width:10px;
+}
+.definition-location-filter{
+    min-width: 85px;
+}
+.tuition-status-size{
+    min-width: 175px;
+}
+.started-star {
+    font-size: 16px;
+    color: black;
+}
+.popup-header{
+    background-color: #367fa9;
+    color: #fff;
+}
+.popup-header h5 {
+    display: inline;
+}
+
+.showSummary{
+    position: relative;
+    padding: 15px;
+    overflow: hidden;
+    height: 600px;
+    overflow-y: scroll;
+}
